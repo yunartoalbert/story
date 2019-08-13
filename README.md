@@ -2,11 +2,12 @@
 
 Please proceed with the following step for the App test:
 
-1. Go to the following github page in your xcode simulator https://github.com/yunartoalbert/story/blob/master/README.md
-2. Proceed by clicking the following link: https://e23qt.app.link/YmW2zI1q5Y without the project running. You should be redirected to this page. This shows the fallback to the webpage through Branch
-3. Now run the attached story file (pls open **xcworkspace**). Run the product to view the single view app. 
-4. Open back this page (https://github.com/yunartoalbert/story/blob/master/README.md) and click on the link on **step 2**
-5. You will open the app directly, since Universal Link is not setup you will see the notification before redirected to the app.
+1. Pls unzip the **story.zip**
+2. Go to the following github page in your xcode simulator https://github.com/yunartoalbert/story/blob/master/README.md
+3. Proceed by clicking the following link: https://e23qt.app.link/YmW2zI1q5Y without the project running. You should be redirected to this page. This shows the fallback to the webpage through Branch
+4. Now run the attached story file (pls open **xcworkspace**). Run the product to view the single view app. 
+5. Open back this page (https://github.com/yunartoalbert/story/blob/master/README.md) and click on the link on **step 2**
+6. You will open the app directly, since Universal Link is not setup you will see the notification before redirected to the app.
 
 
 For the website test:
