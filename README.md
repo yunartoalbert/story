@@ -1,4 +1,4 @@
-## Welcome to story simple instruction
+## Welcome to story's simple instruction
 
 Please proceed with the following step for the App test:
 
